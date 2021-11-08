@@ -18,7 +18,7 @@ N/A
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-Nazli Karaman
+Nazli Karaman -- tuo36633@temple.edu -- T.A. Sai Shi
 
 Sofia Cordero -- tun07945@temple.edu -- T.A. Joanne Nichols
 
